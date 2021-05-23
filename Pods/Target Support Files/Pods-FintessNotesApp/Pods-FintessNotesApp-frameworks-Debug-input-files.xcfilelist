@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-FintessNotesApp/Pods-FintessNotesApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/DateTimePicker/DateTimePicker.framework
+${BUILT_PRODUCTS_DIR}/FSCalendar/FSCalendar.framework
+${BUILT_PRODUCTS_DIR}/NumberCalculate/NumberCalculate.framework
+${BUILT_PRODUCTS_DIR}/PPNumberButton/PPNumberButton.framework
+${BUILT_PRODUCTS_DIR}/ValueStepper/ValueStepper.framework

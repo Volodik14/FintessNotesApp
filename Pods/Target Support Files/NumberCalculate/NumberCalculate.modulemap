@@ -1,0 +1,6 @@
+framework module NumberCalculate {
+  umbrella header "NumberCalculate-umbrella.h"
+
+  export *
+  module * { export * }
+}

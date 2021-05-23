@@ -1,0 +1,32 @@
+PODS:
+  - DateTimePicker (2.5.3)
+  - FSCalendar (2.8.2)
+  - NumberCalculate (0.0.2)
+  - PPNumberButton (0.8.0)
+  - ValueStepper (1.6)
+
+DEPENDENCIES:
+  - DateTimePicker
+  - FSCalendar
+  - NumberCalculate
+  - PPNumberButton
+  - ValueStepper
+
+SPEC REPOS:
+  trunk:
+    - DateTimePicker
+    - FSCalendar
+    - NumberCalculate
+    - PPNumberButton
+    - ValueStepper
+
+SPEC CHECKSUMS:
+  DateTimePicker: 52701ddf656a50856d3510955933f767cd2c947c
+  FSCalendar: e6a2eb9c571bf0719ed797ef807e08426753c241
+  NumberCalculate: 3e1efd5de9e88c5f2bc5c4249869481cd19fdf47
+  PPNumberButton: 4442ff64c21d91733057ca1b3dc05fb4df55f2c0
+  ValueStepper: 8b120c72c8d1391cd874a427485e2e57fda1a0b9
+
+PODFILE CHECKSUM: f79e2bf34edccf511b278f938c84b932b10f6528
+
+COCOAPODS: 1.10.1
